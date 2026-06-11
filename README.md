@@ -44,6 +44,12 @@ This project predicts students' final grades (G3) using demographic, academic, f
 - Correlation Heatmap
 - Actual vs Predicted Grades
 
+## Results
+
+- MAE: 1.25
+- RMSE: 1.80
+- R² Score: 0.85
+
 ## Objective
 
 To understand the factors affecting student performance and build a machine learning model capable of predicting final grades.
