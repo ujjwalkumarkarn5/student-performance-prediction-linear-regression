@@ -1,8 +1,8 @@
 # Student Performance Prediction using Linear Regression
 
-## Overview
+## Project Overview
 
-This project predicts students' final grades (G3) using Linear Regression. The model analyzes demographic, family, academic, and lifestyle factors to estimate student performance.
+This project predicts students' final grades (G3) using demographic, academic, family, and lifestyle factors from the Student Performance Dataset. A Linear Regression model was trained to learn relationships between student characteristics and academic performance.
 
 ## Dataset
 
