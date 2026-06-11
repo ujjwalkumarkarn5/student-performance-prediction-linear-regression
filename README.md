@@ -1,4 +1,3 @@
-# student-performance-prediction-linear-regression
 # Student Performance Prediction using Linear Regression
 
 ## Overview
